@@ -11,9 +11,13 @@ O objetivo do curso é construir, passo a passo, um computador completo e funcio
 
 Cada projeto está organizado em seu respectivo diretório:
 ├── Projeto01/
+
 ├── Projeto02/
+
 ├── Projeto03/
+
 ├── Projeto04/
+
 └── Projeto05/
 
 ## 🚀 Projetos
