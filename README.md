@@ -17,8 +17,6 @@ Cada projeto está organizado em seu respectivo diretório:
 
 ├── Projeto03/
 
-├── Projeto04/
-
 └── Projeto05/
 
 ## 🚀 Projetos
@@ -62,17 +60,13 @@ Essa etapa forma a base da memória do computador.
 
 ---
 
-### 💾 Projeto 4 — Máquina de Hack (Parte 1)
+### ⚙️ Projeto 5 — Computador Hack
 
 Implemente a CPU e o fluxo de dados básicos do computador Hack:
 
 - Construção da CPU (sem o sistema completo)
 - Execução de instruções em nível de hardware
 - Interação com ALU e registradores internos
-
----
-
-### ⚙️ Projeto 5 — Computador Hack (Parte 2)
 
 Monte o computador Hack completo:
 
