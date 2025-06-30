@@ -60,6 +60,17 @@ Essa etapa forma a base da memória do computador.
 
 ---
 
+### 💾 Projeto 4 — Linguagem de Máquina
+
+Implemente programas simples diretamente na linguagem de máquina Hack, utilizando o **Assembly Hack**:
+
+- `Mult.asm`: Multiplicação de dois números inteiros sem utilizar operadores aritméticos diretos.
+- `Fill.asm`: Preenchimento da tela com base na entrada do teclado, controlando os pixels em tempo real.
+
+Essa etapa aprofunda a compreensão da arquitetura Hack, manipulando diretamente os registradores e a memória.
+
+---
+
 ### ⚙️ Projeto 5 — Computador Hack
 
 Implemente a CPU e o fluxo de dados básicos do computador Hack:
