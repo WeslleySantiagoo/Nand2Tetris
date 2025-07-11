@@ -87,6 +87,27 @@ Monte o computador Hack completo:
 
 ---
 
+---
+
+### 🎮 Projeto 6 — Pong para Dois Jogadores
+
+Extensão do jogo Pong original localizado em `projects/11/Pong`, implementado na linguagem **Jack**.
+
+Objetivo: Permitir que dois jogadores humanos controlem as barras superior e inferior, disputando quem consegue manter a bola em jogo por mais tempo. O jogador que deixar a bola ultrapassar sua barra perde.
+
+**Funcionalidades:**
+- Controle simultâneo por dois jogadores (setas ←/→ e teclas A/D).
+- Duas barras de controle com movimentação espelhada.
+- Colisão da bola com ambas as barras.
+- Condição de derrota para cada jogador.
+- Exibição de mensagem “Game Over” indicando o perdedor.
+- Estrutura modular com os arquivos: `Main.jack`, `PongGame.jack`, `Ball.jack`, `Bat.jack`.
+
+Este projeto explora lógica de jogo, controle de eventos e abstrações orientadas a objetos com Jack.
+
+
+---
+
 ## 🛠️ Ferramentas
 
 - **Hardware Simulator** (fornecido pelo Nand2Tetris)
